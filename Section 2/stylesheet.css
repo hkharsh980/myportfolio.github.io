@@ -1,0 +1,39 @@
+h1,figure{
+	text-align: center;
+	font-style: normal;
+
+}
+ul{
+	list-style-image: url(pencil_270f.png) ;
+	font-size: 20px;
+	margin: 0;
+}
+h2{
+	color: blue;
+	margin: 0;
+}
+body{
+	font-family: Russo one;
+	margin: 0;
+}
+a:link{
+	color: green;
+	text-decoration: none;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: blue;
+
+}
+.connectme{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+#skills{
+	background-color: beige;
+	width: 50%
+	height
+}
